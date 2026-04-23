@@ -14,7 +14,6 @@ src="https://i.pinimg.com/1200x/e8/b4/38/e8b438a30b99350ac389780492013794.jpg"/>
 - 🐳 Practicing **Docker, Linux, CI/CD**
 - ☁️ Using **Google Cloud Platform (GCP)**
 - 🌐 Managing **Domain & DNS with Namecheap**
-- 🔍 Researching **Blockchain**
 - 💪 Mindset: **Never give up, keep learning**
 - ⚡ Fun fact: I did **crazy coding** 
 
